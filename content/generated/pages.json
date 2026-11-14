@@ -1,0 +1,593 @@
+[
+  {
+    "enabled": true,
+    "slug": "beginner-guide",
+    "pageType": "guide",
+    "navLabel": "Beginner Guide",
+    "title": "Ragdoll Frenzy beginner guide: Updated Starter Steps",
+    "description": "Use this Ragdoll Frenzy beginner guide to learn the basics, check controls and plan your first session. Find weapon, map and physics tips with source checks.",
+    "navVisible": true,
+    "parentSlug": "",
+    "hero": {
+      "eyebrow": "Guide",
+      "heading": "Ragdoll Frenzy Beginner Guide: How to Start Playing",
+      "lead": "Ragdoll Frenzy Beginner Guide: How to Start Playing. Ragdoll Frenzy is a realistic ragdoll physics sandbox where you shoot, blast, and grab dummies while experimenting with dynamic mechanics and slow motion effects. This beginner guide covers essential controls, your first session workflow, core physics concepts, weapon selection, and map overview so you can start playing with confidence. Below you'll find step-by-step setup instructions, starter tips to avoid common mistakes, and pointers to deeper guides on weapons, maps, and advanced techniques."
+    },
+    "sections": [
+      {
+        "id": "what-is-ragdoll-frenzy-game-identity-and-gameplay-basics",
+        "heading": "What Is Ragdoll Frenzy? Game Identity and Gameplay Basics",
+        "intro": "Ragdoll Frenzy is a Roblox sandbox built around realistic ragdoll physics. The game gives you dummies to shoot, blast, and grab, letting you watch how each impact sends a body flying, crumpling, or spinning depending on the force and angle you apply.",
+        "paragraphs": [
+          "The core loop is open-ended experimentation: pick a weapon or tool, apply force to a dummy, and study the reaction. Slow-motion mode lets you replay moments frame by frame, while environmental hazards like the train add unpredictable variables to test against. Brutal finishers round out the toolkit for players who want dramatic, high-impact results.",
+          "There is no win condition or progression gate blocking you at the start. Every session is a physics playground, so the goal is learning what the sandbox can do rather than clearing levels or collecting rewards."
+        ],
+        "table": {
+          "caption": "Ragdoll Frenzy beginner guide Quick Reference & Progression Overview",
+          "columns": [
+            "Progression Stage",
+            "Core Objective",
+            "Key Mechanic",
+            "Player Priority"
+          ],
+          "rows": [
+            [
+              "Early Game Setup",
+              "Learn Ragdoll Frenzy core loop",
+              "Initial resource & starter unlock",
+              "Complete tutorial loop before spending currency"
+            ],
+            [
+              "Mid Game Scaling",
+              "Unlock higher multiplier tiers",
+              "Loadout / upgrade synergy",
+              "Focus on repeatable milestones and efficiency"
+            ],
+            [
+              "Endgame & Updates",
+              "Bosses, events, and new worlds",
+              "High-tier drops & patch preparation",
+              "Track official update logs and optimize builds"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "controls-and-interface-setup-by-device",
+        "heading": "Controls and Interface Setup by Device",
+        "intro": "Ragdoll Frenzy is available on Roblox, which supports desktop (Windows, macOS), mobile (iOS, Android), and Xbox console platforms. Desktop players typically use WASD or arrow keys for movement, mouse for camera and aim, left-click to shoot or interact, and right-click or a designated key for grab actions. Mobile users rely on on-screen virtual joysticks for movement and camera, with tap buttons for shoot, grab, and menu access. Xbox players navigate with the left stick, aim with the right stick, and use trigger and face buttons for shooting, grabbing, and selecting tools.",
+        "paragraphs": [
+          "To customize your controls, open the Roblox in-game menu (usually Escape on desktop, the hamburger icon on mobile, or the Menu button on Xbox), then look for Settings or Controls. Roblox games inherit the platform's default input scheme, so if you've remapped Roblox controls system-wide those changes will apply here. Adjust mouse sensitivity on desktop or touch sensitivity on mobile to match your preference for aiming and camera speed. Test each binding by moving around an empty map corner, spawning a dummy, and confirming you can aim, shoot, grab, and open the menu without conflicts."
+        ]
+      },
+      {
+        "id": "your-first-session-a-step-by-step-starter-walkthrough",
+        "heading": "Your First Session: A Step-by-Step Starter Walkthrough",
+        "intro": "Launch Ragdoll Frenzy and select a starter map from the menu. New players should begin on an open sandbox level without heavy environmental hazards—these maps let you focus entirely on learning how to interact with dummies and weapons without time pressure or obstacles forcing rushed decisions.",
+        "paragraphs": [
+          "Spawn a dummy into the scene using the in-game spawn menu. You'll see a humanoid ragdoll character appear at a neutral position. Take a moment to observe its idle state—this is your baseline for understanding how the physics engine responds to forces. Notice the dummy's posture, limb placement, and how it balances on the ground.",
+          "Select a beginner-friendly weapon from your loadout. Start with a basic firearm or impact tool rather than complex gadgets. Aim at the dummy's torso or limbs and fire once. Watch how the ragdoll reacts—does it stumble, collapse, or ragdoll instantly? The force direction, impact zone, and weapon type all determine the outcome. Fire again from a different angle to see how the reaction changes.",
+          "Experiment with slow-motion effects if your device supports them. Activate slow motion just before impact to see the ragdoll deformation in detail—how joints bend, how limbs swing, and where momentum concentrates. This reveals the physics simulation at work and helps you predict how future shots will behave.",
+          "Grab or interact with the dummy directly using the grab mechanic. Pull, push, or manipulate its limbs to feel the ragdoll's weight and resistance. This teaches you the difference between applying force via weapons versus direct interaction—a critical skill for advanced play. Complete one full cycle: aim, shoot, observe the ragdoll reaction, then grab and manipulate the result.",
+          "Repeat this loop 3–5 times with different weapons or impact zones. Each repetition builds muscle memory for aiming, timing, and predicting ragdoll behavior. When you feel comfortable spawning, targeting, and observing reactions, you're ready to explore more complex maps and advanced weapon combinations covered in the weapons and maps guides."
+        ],
+        "steps": [
+          {
+            "heading": "Check Current Ragdoll Frenzy beginner guide Requirements",
+            "description": "Review the active mechanics and prerequisites inside Ragdoll Frenzy before committing resources."
+          },
+          {
+            "heading": "Complete the Core Progression Loop",
+            "description": "Follow the primary objective sequence to unlock the next multiplier, zone, or equipment slot."
+          },
+          {
+            "heading": "Verify Post-Update Changes",
+            "description": "Re-check the comparison table and official Ragdoll Frenzy patch notes whenever a new update drops."
+          }
+        ]
+      },
+      {
+        "id": "ragdoll-physics-hit-reactions-and-beginner-skills",
+        "heading": "Ragdoll Physics, Hit Reactions and Beginner Skills",
+        "intro": "Ragdoll Frenzy's sandbox turns every dummy into a physics object that reacts to force in real time. When you shoot or blast a dummy, the impact point, weapon power, and the dummy's current posture all shape how the body tumbles or collapses. A direct hit to the upper torso tends to throw the ragdoll backward, while a glancing shot can spin it sideways. Grabbing a dummy lets you reposition it by hand and observe how gravity, momentum, and surface collisions interact before you apply any force.",
+        "paragraphs": [
+          "The best early experiments compare impact types side by side. Fire the same weapon at a standing dummy, then at one near an edge or by the train track, and note how the environment changes the result. Slow motion magnifies each reaction so you can study where force transfers through the ragdoll's joints. These tests build the intuition you need for the weapon and map strategies covered in the dedicated guides."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "How do I start playing Ragdoll Frenzy on Roblox?",
+        "answer": "Visit the official Roblox game page, click Play, and log in or create a Roblox account. Once in-game, select your starting map and spawn your first ragdoll dummy to begin experimenting with the physics sandbox."
+      },
+      {
+        "question": "Where can I find the controls for my device?",
+        "answer": "Open the in-game settings menu or pause screen immediately after spawning. Most Roblox games display control remaps by device; look for a Controls or Keybinds tab. Customize as needed for your setup."
+      },
+      {
+        "question": "What should I practice during my first session?",
+        "answer": "Focus on basic aiming and shooting a stationary dummy, observing how the ragdoll reacts to impact. Experiment with different angles and force levels, then try grabbing or using a secondary tool if available. Short, focused sessions build intuition faster than random exploration."
+      },
+      {
+        "question": "How do I choose a weapon as a beginner?",
+        "answer": "Start with the default or recommended starter weapon, usually a basic firearm or melee tool. Once you master aiming and ragdoll reactions with that tool, experiment with other weapons one at a time so you can isolate what each does."
+      },
+      {
+        "question": "Why do some Ragdoll Frenzy guides show features I cannot find in-game?",
+        "answer": "Game features change with updates, and not all third-party guides are current. Check the official Roblox page and in-game changelogs for the latest version. If a feature is missing, it may have been removed or replaced in a recent patch."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "",
+      "codes",
+      "maps",
+      "weapons",
+      "slow-motion"
+    ],
+    "lastReviewed": "2026-11-14"
+  },
+  {
+    "enabled": true,
+    "slug": "codes",
+    "pageType": "codes",
+    "navLabel": "Codes",
+    "title": "Ragdoll Frenzy codes: Updated Status and Redeem Guide",
+    "description": "Check Ragdoll Frenzy codes, verification status and official sources. Learn how to confirm redemption support, report errors and track future announcements.",
+    "navVisible": true,
+    "parentSlug": "",
+    "hero": {
+      "eyebrow": "Codes",
+      "heading": "Ragdoll Frenzy Codes: Verification Status and Official Sources",
+      "lead": "Ragdoll Frenzy codes are currently unverified, with no active redemption combinations corroborated by multiple independent sources. While fan wikis maintain codes sections, search results mostly point to a different ragdoll game. To check for redemption support, players should verify the in-game interface and monitor the official Roblox game page. This guide outlines the current code status, safe verification methods, troubleshooting for invalid entries, and how to access the sandbox experience without codes."
+    },
+    "sections": [
+      {
+        "id": "current-ragdoll-frenzy-code-record-and-verification-status",
+        "heading": "Current Ragdoll Frenzy Code Record and Verification Status",
+        "intro": "Ragdoll Frenzy does not currently have verified redemption codes corroborated by multiple independent sources. While fan wikis maintain codes sections, search results predominantly feature codes for Ragdoll Physics [Skydiving], a different ragdoll game on Roblox. This overlap makes it easy for players to apply codes intended for another game and encounter redemption errors.",
+        "paragraphs": [
+          "Third-party player guides report codes for Ragdoll Physics [Skydiving] with November 2026 updates, but these remain untested claims and do not transfer to Ragdoll Frenzy. Without official patch notes or in-game redemption confirmation, it is not safe to assume any specific code works in Ragdoll Frenzy itself.",
+          "To check whether Ragdoll Frenzy supports codes, launch the game and look for a redemption interface in the main menu or settings. If no codes section appears in-game, the title may not have an active redemption system. The official Roblox game page is the authoritative source for any announcements about code implementation or special redemption events."
+        ],
+        "table": {
+          "caption": "Ragdoll Frenzy codes Verification & Redemption Status",
+          "columns": [
+            "Channel / Milestone",
+            "Status",
+            "Expected Reward Type",
+            "How to Verify"
+          ],
+          "rows": [
+            [
+              "In-Game Codes Menu",
+              "Active Check",
+              "Boosts, Currency, or Packs",
+              "Open the Codes button in the main HUD"
+            ],
+            [
+              "Official Roblox Listing",
+              "Tracked",
+              "Like Milestone Codes",
+              "Check the official game description after updates"
+            ],
+            [
+              "Community Group / Discord",
+              "Tracked",
+              "Patch & Event Drops",
+              "Join the verified creator group before redeeming"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "code-errors-missing-rewards-and-troubleshooting",
+        "heading": "Code Errors, Missing Rewards and Troubleshooting",
+        "intro": "When searching for Ragdoll Frenzy codes online, you may encounter redemption lists from third-party sites and fan wikis. Many of these codes belong to a different ragdoll game—specifically Ragdoll Physics [Skydiving]—rather than Ragdoll Frenzy itself. This mismatch is a primary reason codes fail when entered into the Ragdoll Frenzy client.",
+        "paragraphs": [
+          "Third-party player guides, such as 'Ragdoll Physics [Skydiving] Codes (November 2026)' from community sources like RobloxGo, document codes for the skydiving variant. While these guides report active and expired redemption codes for their respective game, applying them to Ragdoll Frenzy will result in an invalid or unrecognized error. Always verify which ragdoll title a code list targets before attempting redemption.",
+          "If a code fails in Ragdoll Frenzy, check the source: confirm the guide or list explicitly names Ragdoll Frenzy and was written for this specific game, not a similarly named title. Cross-reference the source publication date and any recent patch notes from the official Roblox game page to rule out expired or version-specific codes. If the code remains unrecognized after verification, it likely belongs to another game.",
+          "If Ragdoll Frenzy does not display a redemption interface in-game, codes may not be supported in your current session. Check the official Roblox game page and join the creator's official social channels for announcements about future code support or rewards. This is the most reliable way to distinguish between genuine redemption unavailability and invalid third-party code lists."
+        ],
+        "steps": [
+          {
+            "heading": "Launch Ragdoll Frenzy on Roblox",
+            "description": "Open the official Ragdoll Frenzy experience and wait for your character to load into the main lobby."
+          },
+          {
+            "heading": "Locate the Redemption Interface",
+            "description": "Look for the Codes, Shop, or Settings button along the side or top HUD navigation bar."
+          },
+          {
+            "heading": "Enter and Confirm Exact Code Text",
+            "description": "Paste the code with exact capitalization and press Redeem to verify whether the reward is active."
+          }
+        ]
+      },
+      {
+        "id": "rewards-without-codes-what-can-be-verified",
+        "heading": "Rewards Without Codes: What Can Be Verified",
+        "intro": "Ragdoll Frenzy's core reward system centers on the physics sandbox itself rather than code-unlocked cosmetics or currency. The primary gameplay loop—shooting, blasting, grabbing dummies, riding slow-motion sequences, dodging the train, and executing brutal finishers—constitutes the main progression and satisfaction mechanic. Players earn engagement and mastery through experimentation within the physics environment, not through redemption codes.",
+        "paragraphs": [
+          "Since no codes have been corroborated across independent sources, the practical reward structure is the sandbox experience: access to weapons, maps, and physics interactions available directly in-game. Players who want to maximize this reward loop should explore the beginner guide for core controls, then progress through the weapons and maps guides to understand available tools and scenarios. Each weapon interaction and map hazard presents its own physics challenge and completion satisfaction.",
+          "If you encounter codes advertised on third-party sites or wiki mirrors, verify the source carefully. Many Ragdoll Frenzy code lists online actually reference Ragdoll Physics [Skydiving], a different game, which is why redemption attempts fail. The safest approach is to check the official Roblox game page directly for any announcements from the developer. Until verified codes appear on multiple independent sources, the sandbox mechanics themselves remain the only confirmed reward system."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Are there any verified working Ragdoll Frenzy codes?",
+        "answer": "No working Ragdoll Frenzy codes have been corroborated by two independent sources. Although fan wikis maintain codes sections, current search results mostly point to a different game called Ragdoll Physics [Skydiving]. Treat any unverified code lists with caution."
+      },
+      {
+        "question": "Does Ragdoll Frenzy have a code redemption menu?",
+        "answer": "There is no confirmed code redemption menu in Ragdoll Frenzy at this time. Check the game's settings or main interface for a Twitter icon or code input field, but no functional system has been verified across independent sources."
+      },
+      {
+        "question": "Why does a Ragdoll Frenzy code show an error?",
+        "answer": "A code showing an error is likely intended for a different game, such as Ragdoll Physics [Skydiving], which has its own separate codes. It could also be expired or typed incorrectly. Always verify the code belongs to Ragdoll Frenzy before attempting to redeem."
+      },
+      {
+        "question": "Where should I check for official code announcements?",
+        "answer": "Check the official Ragdoll Frenzy Roblox game page and the developer JustEvolve's official social media channels. Fan-made wikis may list codes, but official sources are the only reliable place for new redemption announcements."
+      },
+      {
+        "question": "Can I get rewards without using codes?",
+        "answer": "Yes, Ragdoll Frenzy is a physics sandbox where the core experience involves shooting, blasting, and grabbing dummies. Players can use slow motion, dodge hazards, and perform finishers to enjoy the game's mechanics without needing redemption codes."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "",
+      "beginner-guide",
+      "maps",
+      "weapons",
+      "slow-motion"
+    ],
+    "lastReviewed": "2026-11-14"
+  },
+  {
+    "enabled": true,
+    "slug": "maps",
+    "pageType": "guide",
+    "navLabel": "Maps",
+    "title": "Ragdoll Frenzy maps: All Maps and Scenario Reference",
+    "description": "Explore Ragdoll Frenzy maps with a source-based guide to layouts, scenarios, hazards and access. Compare route advice and check which map claims are verified.",
+    "navVisible": true,
+    "parentSlug": "",
+    "hero": {
+      "eyebrow": "Guide",
+      "heading": "Ragdoll Frenzy Maps: Layouts, Scenarios and Access Guide",
+      "lead": "Ragdoll Frenzy maps provide distinct physics sandbox scenarios where you shoot, blast, and grab dummies across different layouts and hazard configurations. Two direct competitor wikis structure their sites around maps or scenes, confirming that the community expects dedicated map references. However, the official Roblox description does not list specific map names, and no sourced facts currently identify individual maps, unlock conditions, or layout details. This guide explains what evidence exists, addresses the Office map claim circulating in search results, and outlines the testing steps needed to document each map's features and access requirements."
+    },
+    "sections": [
+      {
+        "id": "what-maps-are-in-ragdoll-frenzy-and-why-layout-knowledge-matters",
+        "heading": "What Maps Are in Ragdoll Frenzy and Why Layout Knowledge Matters",
+        "intro": "Ragdoll Frenzy is a physics sandbox where each map functions as a distinct scenario with its own set of hazards and interactive props — the train you dodge, the slow-motion trigger you ride, and the objects you blast dummies into all depend on what a given layout provides. Because the sandbox loop changes meaningfully with the environment, knowing which maps exist and what each one contains directly affects how you plan experiments, chain finishers, or test weapons.",
+        "paragraphs": [
+          "No official source currently lists individual map names, unlock conditions, or layout diagrams. The game's Roblox description confirms the core sandbox mechanics — shooting, blasting, grabbing dummies, slow-motion, the train, and brutal finishers — but does not enumerate scenes. Until map names and layouts are documented through in-game testing, specific claims circulating in search results, including the Office map, remain unverified."
+        ],
+        "table": {
+          "caption": "Ragdoll Frenzy maps Quick Reference & Progression Overview",
+          "columns": [
+            "Progression Stage",
+            "Core Objective",
+            "Key Mechanic",
+            "Player Priority"
+          ],
+          "rows": [
+            [
+              "Early Game Setup",
+              "Learn Ragdoll Frenzy core loop",
+              "Initial resource & starter unlock",
+              "Complete tutorial loop before spending currency"
+            ],
+            [
+              "Mid Game Scaling",
+              "Unlock higher multiplier tiers",
+              "Loadout / upgrade synergy",
+              "Focus on repeatable milestones and efficiency"
+            ],
+            [
+              "Endgame & Updates",
+              "Bosses, events, and new worlds",
+              "High-tier drops & patch preparation",
+              "Track official update logs and optimize builds"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "map-features-to-document-hazards-interactive-objects-and-sandbox-tools",
+        "heading": "Map Features to Document: Hazards, Interactive Objects and Sandbox Tools",
+        "intro": "The official description confirms at least one environmental hazard by name: a train you dodge, alongside slow-motion mechanics and tools for shooting, blasting, and grabbing dummies. These elements suggest maps differ by which hazards and sandbox tools are active, making them worth cataloging individually rather than treating all layouts as interchangeable.",
+        "paragraphs": [
+          "When testing a map, note which hazards are present and whether they follow a fixed path or trigger on demand, record every interactive object you can activate, and check whether slow-motion and finisher mechanics behave differently from map to map. If a map has no train but introduces other environmental threats, that distinction is itself useful data.",
+          "Which specific maps exist beyond what the official description implies is not yet documented from verified sources. As you explore each scene, logging its unique hazard set, available weapons, and any unlock condition is the most reliable way to build an accurate reference."
+        ],
+        "steps": [
+          {
+            "heading": "Check Current Ragdoll Frenzy maps Requirements",
+            "description": "Review the active mechanics and prerequisites inside Ragdoll Frenzy before committing resources."
+          },
+          {
+            "heading": "Complete the Core Progression Loop",
+            "description": "Follow the primary objective sequence to unlock the next multiplier, zone, or equipment slot."
+          },
+          {
+            "heading": "Verify Post-Update Changes",
+            "description": "Re-check the comparison table and official Ragdoll Frenzy patch notes whenever a new update drops."
+          }
+        ],
+        "bullets": [
+          "Active hazards: note type, trigger condition, and movement pattern (e.g., fixed-route train vs. on-demand obstacle)",
+          "Interactive objects: list every grabbable, launchable, or destructible prop and whether it respawns",
+          "Sandbox tools: confirm which shooting, blasting, and grabbing options are available on that map",
+          "Slow-motion and finisher support: check whether activation controls match the behavior described in the slow-motion guide",
+          "Access conditions: record whether the map is available by default or requires a specific selection, game pass, or round trigger"
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Where do I select maps in Ragdoll Frenzy?",
+        "answer": "Ragdoll Frenzy presents its map or scenario menu when you launch the game on Roblox. Look for a lobby screen, level selector, or teleporter interface that lists available sandbox environments. The exact menu layout has not been documented in sourced materials, so open the game and check the initial UI or any lobby area for map icons or scene names. If no explicit menu appears, the game may load a single default map or rotate scenarios automatically."
+      },
+      {
+        "question": "Is the Office map available in the Roblox version of Ragdoll Frenzy?",
+        "answer": "Search queries and competitor site structures reference an Office map, but no sourced fact confirms its existence, layout, or unlock requirements in the current Roblox build of Ragdoll Frenzy. To verify whether the Office map is live, launch the game and inspect the map selection menu for an office-themed scenario. Check for any progression gates, level requirements, or badges tied to office environments. If the Office map does not appear, it may be under development, removed in a prior update, or mistakenly associated with Ragdoll Frenzy from another ragdoll physics game."
+      },
+      {
+        "question": "Which map should a beginner try first?",
+        "answer": "Choose a map with minimal environmental hazards and open space so you can focus on shooting, blasting, and grabbing dummies without immediate threats like moving trains or complex geometry. The beginner guide recommends starting on an open sandbox level, but specific map names have not been documented. Launch Ragdoll Frenzy, review the available maps in the selection menu, and pick the one with the simplest description or fewest interactive elements. Avoid maps labeled with terms like 'extreme,' 'chaos,' or 'advanced' until you understand basic physics controls and weapon handling."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "",
+      "beginner-guide",
+      "codes",
+      "weapons",
+      "slow-motion"
+    ],
+    "lastReviewed": "2026-11-14"
+  },
+  {
+    "enabled": true,
+    "slug": "weapons",
+    "pageType": "database",
+    "navLabel": "Weapons",
+    "title": "Ragdoll Frenzy weapons: All Tools and Weapon Reference",
+    "description": "Explore Ragdoll Frenzy weapons with availability checks, controls, scenario advice and testing steps. Compare sourced details and investigate hidden weapons.",
+    "navVisible": true,
+    "parentSlug": "",
+    "hero": {
+      "eyebrow": "Database",
+      "heading": "Ragdoll Frenzy Weapons: Arsenal, Tools and Testing Guide",
+      "lead": "Ragdoll Frenzy Weapons: Arsenal, Tools and Testing Guide. Ragdoll Frenzy gives you a physics sandbox filled with tools to shoot, blast, and grab dummies. This weapons reference covers what tools are available in-game, how to access them, and practical testing steps to compare their behavior. The sections below organize verified mechanics, scenario advice, and investigation frameworks for hidden or disputed weapons."
+    },
+    "sections": [
+      {
+        "id": "weapon-basics-gameplay-fundamentals-controls-and-uses",
+        "heading": "Weapon Basics: Gameplay Fundamentals, Controls and Uses",
+        "intro": "Ragdoll Frenzy revolves around three core tool types that interact with physics-driven dummies: shoot, blast, and grab. Shooting tools apply directional force at the point of impact, sending ragdolls flying backward or spinning through the air. Blast tools create area-of-effect explosions that push multiple dummies outward from a central detonation point. Grab tools let you lift, drag, and throw ragdolls manually, giving you precise control over positioning and launch angles.",
+        "paragraphs": [
+          "Each tool type produces distinct physics responses. Shooting a dummy in the torso typically causes linear backward motion, while limb hits trigger rotation around the impact joint. Blast effects scale with proximity; dummies closer to the explosion travel farther and faster. Grab mechanics allow you to swing a ragdoll before releasing it, translating your mouse movement into momentum. Experiment with different angles and release timings to discover how velocity and spin accumulate.",
+          "Controls follow standard Roblox shooter conventions. Left-click or tap fires shoot and blast tools; hold and drag with the grab tool to swing a dummy before release. Right-click or secondary input often toggles aim or tool selection if multiple weapons are available. Check the in-game settings menu for custom keybind options and sensitivity adjustments."
+        ],
+        "table": {
+          "caption": "Ragdoll Frenzy weapons Evaluation & Priority Matrix",
+          "columns": [
+            "Tier / Category",
+            "Primary Role",
+            "Unlock Stage",
+            "Recommended Focus"
+          ],
+          "rows": [
+            [
+              "S-Tier (Meta Core)",
+              "High scaling & boss clear",
+              "Mid to Late Game",
+              "Prioritize upgrades and main loadout slot"
+            ],
+            [
+              "A-Tier (Reliable)",
+              "Consistent farming & utility",
+              "Early to Mid Game",
+              "Use as transitional carry until top-tier unlock"
+            ],
+            [
+              "B-Tier (Starter)",
+              "Basic progression & entry loop",
+              "Starter / Tutorial",
+              "Replace once first milestone resources are secured"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "weapon-testing-and-sandbox-settings",
+        "heading": "Weapon Testing and Sandbox Settings",
+        "intro": "Ragdoll Frenzy's physics sandbox rewards experimentation. To discover how each tool behaves, set up a controlled test environment by selecting a single map and spawning the same dummy type repeatedly. Start with one weapon at a time, noting how the ragdoll responds to each shot, blast, or grab action. Compare the distance the dummy travels, whether limbs detach, and how long the animation persists before the ragdoll settles.",
+        "paragraphs": [
+          "Keep an observation checklist for each tool: record the effective range, whether the tool triggers slow-motion automatically, and how the dummy reacts when hit from different angles. Test the same weapon in normal speed and slow-motion mode to see if physics behavior changes. If a tool offers multiple firing modes or grab positions, try each one and note any differences in ragdoll trajectory or force.",
+          "After testing three to five weapons, review your notes side by side. Look for patterns—some tools may excel at launching dummies across the map, while others work best for precise placement or close-range finishers. Save screenshots or short clips if you want to revisit specific behaviors later. This methodical approach lets you build your own reference without relying on unverified damage statistics or tier lists."
+        ],
+        "steps": [
+          {
+            "heading": "Check Current Ragdoll Frenzy weapons Requirements",
+            "description": "Review the active mechanics and prerequisites inside Ragdoll Frenzy before committing resources."
+          },
+          {
+            "heading": "Complete the Core Progression Loop",
+            "description": "Follow the primary objective sequence to unlock the next multiplier, zone, or equipment slot."
+          },
+          {
+            "heading": "Verify Post-Update Changes",
+            "description": "Re-check the comparison table and official Ragdoll Frenzy patch notes whenever a new update drops."
+          }
+        ]
+      },
+      {
+        "id": "scenario-walkthroughs-and-tool-selection-advice",
+        "heading": "Scenario Walkthroughs and Tool Selection Advice",
+        "intro": "The train dodge sequence requires precise timing and movement rather than weapon choice. Official description confirms you dodge the train as part of the sandbox experience, but no verified source details weapon effectiveness during evasion. Focus on positioning and reaction speed; weapons that require aiming downrange may distract from the dodge window.",
+        "paragraphs": [
+          "Slow-motion opportunities let you line up shots and observe ragdoll reactions in detail. The official description mentions riding the slow-mo, which pairs well with any shoot or blast tool that benefits from extended aim time. Grab tools remain functional in slow-motion but offer less tactical advantage since their interaction is already manual.",
+          "Dummy engagement patterns vary by map layout. Open spaces favor shoot tools with clear sightlines, while confined areas make blast tools more efficient for affecting multiple targets. Grab tools work in any layout but require close proximity. Test each tool in the specific map scenario to confirm behavior, as no third-party source has cataloged map-specific weapon performance."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Where can I find weapons in Ragdoll Frenzy?",
+        "answer": "Tools in Ragdoll Frenzy are accessed directly from the game's sandbox environment. The official description confirms three core interaction types: shoot, blast, and grab mechanics available to all players. Check your map spawn area and control settings to locate and select each tool type."
+      },
+      {
+        "question": "How do I check whether a weapon needs to be unlocked?",
+        "answer": "Ragdoll Frenzy's core tools (shoot, blast, grab) are available in the base sandbox without prerequisites. If a tool appears locked or unavailable, verify that you've loaded the correct map and that your controls are properly configured for your device (desktop, mobile, or console)."
+      },
+      {
+        "question": "Which weapon should I try first?",
+        "answer": "Start with the grab tool to get comfortable with ragdoll physics behavior and dummy responses. Move to shooting and blasting to see how impact point and force intensity shape ragdoll reactions across different scenarios. This progression builds intuition before tackling complex map hazards like the train sequence."
+      },
+      {
+        "question": "Are there verified hidden weapons in Ragdoll Frenzy?",
+        "answer": "No hidden weapons have been corroborated across independent sources. Community forums and wikis occasionally report undiscovered tools, but these claims remain unverified. The most reliable method is to explore each map methodically and document your findings against the official tool set."
+      },
+      {
+        "question": "How can I compare weapons without relying on damage stats?",
+        "answer": "Compare tools by observable physics outcomes: impact radius, dummy reaction speed, ragdoll stability post-hit, and effectiveness in specific scenarios (e.g., the train dodge or slow-motion sequences). Set up controlled tests using the same dummy and map layout to isolate tool behavior."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "",
+      "beginner-guide",
+      "codes",
+      "maps",
+      "slow-motion"
+    ],
+    "lastReviewed": "2026-11-14"
+  },
+  {
+    "enabled": true,
+    "slug": "slow-motion",
+    "pageType": "guide",
+    "navLabel": "Slow Motion",
+    "title": "Ragdoll Frenzy slow motion: Updated Controls Guide",
+    "description": "Learn how to check Ragdoll Frenzy slow motion support, find relevant controls and understand finisher claims. Includes testing steps and troubleshooting tips.",
+    "navVisible": true,
+    "parentSlug": "",
+    "hero": {
+      "eyebrow": "Guide",
+      "heading": "Ragdoll Frenzy Slow Motion and Finisher Guide",
+      "lead": "Ragdoll Frenzy slow motion is listed as a named feature in the game's official Roblox description, which calls out \"ride the slow-mo\" alongside shooting, blasting, grabbing dummies, and pulling off finishers. That phrasing confirms slow motion exists in the sandbox but leaves specific controls, trigger conditions, and device behavior undocumented in currently available sources. This guide covers what is verified, how to locate and test the feature in-session, and how to interpret finisher-related behavior alongside it."
+    },
+    "sections": [
+      {
+        "id": "slow-motion-and-finishers-feature-availability-by-game-version",
+        "heading": "Slow Motion and Finishers: Feature Availability by Game Version",
+        "intro": "The game's official Roblox description explicitly names both features: it instructs players to \"ride the slow-mo\" and \"pull off brutal finishers\" within the same sandbox that lets you shoot, blast, and grab dummies. That wording confirms slow motion and finishers are intentional, named mechanics rather than incidental physics behavior.",
+        "paragraphs": [
+          "Beyond the description itself, specific controls, trigger conditions, and whether behavior differs across PC, mobile, or console are not documented in currently available sources. The same applies to finisher requirements: the official text names the action but does not define the input sequence or the state a dummy must be in before a finisher becomes available."
+        ],
+        "table": {
+          "caption": "Ragdoll Frenzy slow motion Quick Reference & Progression Overview",
+          "columns": [
+            "Progression Stage",
+            "Core Objective",
+            "Key Mechanic",
+            "Player Priority"
+          ],
+          "rows": [
+            [
+              "Early Game Setup",
+              "Learn Ragdoll Frenzy core loop",
+              "Initial resource & starter unlock",
+              "Complete tutorial loop before spending currency"
+            ],
+            [
+              "Mid Game Scaling",
+              "Unlock higher multiplier tiers",
+              "Loadout / upgrade synergy",
+              "Focus on repeatable milestones and efficiency"
+            ],
+            [
+              "Endgame & Updates",
+              "Bosses, events, and new worlds",
+              "High-tier drops & patch preparation",
+              "Track official update logs and optimize builds"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "how-to-test-slow-motion-support-step-by-step",
+        "heading": "How to Test Slow Motion Support Step by Step",
+        "intro": "Because the official description confirms slow motion exists but leaves controls undocumented, the most reliable approach is a short in-session test. Join a live session, spawn a dummy or enter an open area with active physics objects, then work through each input method available on your device — keyboard modifier keys, gamepad shoulder or trigger buttons, and any on-screen button clusters on mobile — while watching whether the simulation visibly slows. A genuine slow-motion response will affect dummy movement, projectile travel, and ragdoll fall speed simultaneously rather than just the camera.",
+        "paragraphs": [
+          "If nothing triggers on a first pass, check the pause or settings menu for a dedicated slow-motion keybind or toggle, since some Roblox sandbox titles surface these there rather than in a heads-up display. Test in a low-population server to rule out lag mimicking a slowdown effect. If the effect still does not appear, the feature may require a specific in-game condition — such as landing a finisher or reaching a point threshold — rather than a direct input. What those conditions are is not documented in currently available sources."
+        ],
+        "steps": [
+          {
+            "heading": "Check Current Ragdoll Frenzy slow motion Requirements",
+            "description": "Review the active mechanics and prerequisites inside Ragdoll Frenzy before committing resources."
+          },
+          {
+            "heading": "Complete the Core Progression Loop",
+            "description": "Follow the primary objective sequence to unlock the next multiplier, zone, or equipment slot."
+          },
+          {
+            "heading": "Verify Post-Update Changes",
+            "description": "Re-check the comparison table and official Ragdoll Frenzy patch notes whenever a new update drops."
+          }
+        ],
+        "bullets": [
+          "Join a session and spawn or locate an active dummy before testing any input.",
+          "Cycle through keyboard modifiers, gamepad triggers, and mobile on-screen buttons one at a time.",
+          "Watch dummy movement, projectile speed, and ragdoll physics together — all three should slow if the feature activates.",
+          "Check the settings or pause menu for a named slow-motion bind if free-form input testing yields nothing.",
+          "Use a low-population server to separate network lag from an intentional slowdown."
+        ]
+      },
+      {
+        "id": "finisher-inputs-conditions-and-animation-checks",
+        "heading": "Finisher Inputs, Conditions and Animation Checks",
+        "intro": "The official Roblox description names 'brutal finishers' as a distinct action alongside shooting, blasting, and grabbing — which suggests finishers are not simply the result of ragdoll physics playing out on its own. What separates a finisher from a standard physics interaction is intent: a finisher is something the player deliberately triggers, whereas a standard hit sends a dummy tumbling through the environment without a dedicated animation or resolution.",
+        "paragraphs": [
+          "The specific input required to execute a finisher is not documented in currently available sources. Players testing finisher behavior should watch for a distinct animation sequence or a brief camera or timing cue that differs from an ordinary weapon impact. If a hit on a dummy produces an extended or stylized motion rather than an immediate freeform ragdoll collapse, that is the most reliable in-session indicator that a finisher has fired. Without confirmed button mappings, the practical approach is to cycle through available inputs after landing a hit on a stationary or low-health dummy and note which one changes the outcome.",
+          "Finisher conditions — such as whether a dummy must be at a certain health threshold, in a specific pose, or on a particular surface — are also undocumented. Until official patch notes or a corroborated player guide confirms the trigger logic, treat any finisher you observe as evidence of the mechanic working rather than a reproducible rule."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Does the Roblox version of Ragdoll Frenzy support slow motion?",
+        "answer": "The official Roblox game page for Ragdoll Frenzy explicitly includes \"ride the slow-mo\" in its description, confirming the feature exists in the game. The exact trigger input and any toggle settings are not documented in currently available sources, so testing in-session remains the most reliable way to locate it."
+      },
+      {
+        "question": "Are finishers and slow motion the same feature?",
+        "answer": "They appear to be separate but related mechanics. The official description lists them in the same sentence — \"ride the slow-mo, dodge the train and pull off brutal finishers\" — suggesting slow motion may play a role during or before a finisher, but no source confirms they share a single input or activation condition."
+      },
+      {
+        "question": "Why does the slow motion control shown in a video not work for me?",
+        "answer": "Roblox games can update inputs without updating older videos, and control schemes sometimes differ between PC, mobile, and console. Check the in-game Settings or Controls menu for the current keybind, and confirm your device type matches what is shown in the video before assuming the feature is missing."
+      },
+      {
+        "question": "How can I check whether slow motion is available on my device?",
+        "answer": "Open Ragdoll Frenzy, navigate to the Settings or Controls menu, and look for a slow-motion entry or keybind. If none is listed, try the default Roblox interaction keys and observe whether the game's physics visibly decelerate. Mobile players should check for on-screen button overlays that desktop tutorials may not show."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "",
+      "beginner-guide",
+      "codes",
+      "maps",
+      "weapons"
+    ],
+    "lastReviewed": "2026-11-14"
+  }
+]
